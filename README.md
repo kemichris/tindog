@@ -1,2 +1,2 @@
 # tindog
-designed with html and css and use of bootstrap framework
+designed with html and css and  the use of bootstrap framework
